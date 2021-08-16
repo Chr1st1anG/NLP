@@ -1,0 +1,13 @@
+matplotlib==3.4.2
+requests==2.25.1
+advertools==0.11.1
+wordcloud==1.8.1
+tqdm==4.61.2
+pandas==1.3.1
+numpy==1.21.1
+lxml==4.6.3
+nltk==3.6.2
+Pillow==8.3.1
+plotly==5.2.1
+scikit_learn==0.24.2
+spacy==3.1.1
